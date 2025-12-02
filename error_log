@@ -1,0 +1,4 @@
+[27-Sep-2024 06:31:56 UTC] PHP Notice:  Undefined index: name in /home/mjcz7g9ukm93/public_html/archigram.co.in/sendmail.php on line 6
+[27-Sep-2024 06:31:56 UTC] PHP Notice:  Undefined index: email in /home/mjcz7g9ukm93/public_html/archigram.co.in/sendmail.php on line 7
+[28-Jan-2025 22:46:10 UTC] PHP Warning:  Undefined array key "msg" in /home/g1g3cinrm7ey/public_html/archigram.co.in/sendmail.php on line 11
+[05-Mar-2025 13:12:47 UTC] PHP Warning:  Undefined variable $request_method in /home/g1g3cinrm7ey/public_html/archigram.co.in/send_email.php on line 43
